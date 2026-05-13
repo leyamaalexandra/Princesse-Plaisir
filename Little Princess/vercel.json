@@ -1,1 +1,1 @@
-{"buildCommand":"npm install && npm run build","outputDirectory":"dist"}
+{"framework":"vite","buildCommand":"npm install --include=dev && npx vite build","outputDirectory":"dist"}
